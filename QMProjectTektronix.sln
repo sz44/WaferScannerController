@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QMProjectTektronix", "QMProjectTektronix.csproj", "{ED1CBE74-4B49-4016-B759-4182E5B81225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1CBE74-4B49-4016-B759-4182E5B81225}.Debug|x86.ActiveCfg = Debug|x86
+		{ED1CBE74-4B49-4016-B759-4182E5B81225}.Debug|x86.Build.0 = Debug|x86
+		{ED1CBE74-4B49-4016-B759-4182E5B81225}.Release|x86.ActiveCfg = Release|x86
+		{ED1CBE74-4B49-4016-B759-4182E5B81225}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6DAA38-9C30-4C3F-BBA8-B1046AB793D2}
+	EndGlobalSection
+EndGlobal
